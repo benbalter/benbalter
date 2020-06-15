@@ -2,22 +2,8 @@
 
 ### Elsewhere on the internet
 
-<table border=0>
-<tr>
-<td>
-
-
-[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)<br />Twitter](https://twitter.com/benbalter) 
-
-
-</td>
-<td>
-
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)<br />LinkedIn](https://linkedin.com/in/benbalter)
-
-
-</td>
-</table>
+[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/benbalter) 
+[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/benbalter)
 
 ### Popular blog posts
 
