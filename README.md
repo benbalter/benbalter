@@ -2,7 +2,7 @@
 
 ### Elsewhere on the internet
 
-<table>
+<table border=0>
 <tr>
 <td>
 
