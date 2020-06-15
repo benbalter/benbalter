@@ -30,8 +30,6 @@ Ben Balter is a Senior Product Manager at GitHub, the world's largest software d
 </div>
 <div align="center">
 
-Best viewed with:
-
-![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
+<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
 
 </div>
