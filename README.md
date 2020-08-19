@@ -16,7 +16,7 @@
 
 ### About Ben
 
-Ben Balter is a Senior Product Manager at GitHub, the world's largest software development network, where he oversees the platform's Community and Safety efforts. Named one of the top 25 most influential people in government and technology, Fed50's Disruptor of the Year, and winner of the Open Source People's Choice Award, Ben previously served as GitHub's Government Evangelist, leading the efforts to encourage government at all levels to adopt open source philosophies for code, data, and policy development. [Learn more →](https://ben.balter.com/about/)
+Ben Balter is a Senior Product Manager at GitHub where he oversees Product Security and Platform Health. Ben was previously responsible for the platform's trust and safety efforts, delivering more than 500 individual staff- and user-facing features in support of community management, content moderation, privacy, and compliance to ensure the GitHub community remained safe and welcoming for all software developers. Before joining GitHub's Product team, Ben served as GitHub's Government Evangelist, leading the efforts to encourage more than 2,000 government organizations across 75 countries to adopt open source philosophies for code, data, and policy development.
 
 <div align="center">
 
