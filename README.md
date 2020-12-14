@@ -25,7 +25,7 @@ Ben Balter is a Senior Product Manager at GitHub where he oversees Product Secur
 </div>
 <div align="center">
 
-![Hit counter](http://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
+![Hit counter](https://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
 
 </div>
 <div align="center">
