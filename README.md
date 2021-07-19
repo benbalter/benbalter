@@ -16,7 +16,7 @@
 
 ### About Ben
 
-Ben Balter is a Senior Product Manager at GitHub where he oversees Product Security and Platform Health. Ben was previously responsible for the platform's trust and safety efforts, delivering more than 500 individual staff- and user-facing features in support of community management, content moderation, privacy, and compliance to ensure the GitHub community remained safe and welcoming for all software developers. Before joining GitHub's Product team, Ben served as GitHub's Government Evangelist, leading the efforts to encourage more than 2,000 government organizations across 75 countries to adopt open source philosophies for code, data, and policy development.
+Ben Balter is Chief of Staff for Security at GitHub, the world’s largest software development platform. Previously, as a Staff Technical Program manager for Enterprise and Compliance, Ben managed GitHub’s on-premises and SaaS enterprise offerings, and as the Senior Product Manager overseeing the platform’s Trust and Safety efforts, Ben shipped more than 500 features in support of community management, privacy, compliance, content moderation, product security, platform health, and open source workflows to ensure the GitHub community and platform remained safe, secure, and welcoming for all software developers. Before joining GitHub’s Product team, Ben served as GitHub’s Government Evangelist, leading the efforts to encourage more than 2,000 government organizations across 75 countries to adopt open source philosophies for code, data, and policy development.
 
 <div align="center">
 
@@ -24,8 +24,10 @@ Ben Balter is a Senior Product Manager at GitHub where he oversees Product Secur
 
 </div>
 <div align="center">
+  
+<sup>You are visitor number:</sup>
 
-![Hit counter](https://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
+![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1626708761)
 
 </div>
 <div align="center">
