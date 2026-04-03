@@ -26,7 +26,13 @@ Ben Balter is the Director of Hubber Enablement at [GitHub](https://github.com/a
 
 ### Recent posts
 
-<!-- BLOG-POST-LIST:START -->* [Agentic workflows and the future of software development](https://ben.balter.com/2026/03/18/agentic-workflows/)* [I&#39;ve worked remotely at GitHub for thirteen years: here&#39;s what actually works.](https://ben.balter.com/2026/03/04/thirteen-years-at-github/)* [How to run LanguageTool on macOS](https://ben.balter.com/2025/01/30/how-to-run-language-tool-open-source-grammarly-alternative-on-macos/)* [The &quot;I don&#39;t like what they&#39;re saying, so they shouldn&#39;t be allowed to say it&quot; approach to crisis management](https://ben.balter.com/2024/01/08/dissenting-voices/)* [Cathedral vs Bazaar People Management](https://ben.balter.com/2023/12/08/cathedral-bazaar-management/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+* [Agentic workflows and the future of software development](https://ben.balter.com/2026/03/18/agentic-workflows/)
+* [I've worked remotely at GitHub for thirteen years: here's what actually works.](https://ben.balter.com/2026/03/04/thirteen-years-at-github/)
+* [How to run LanguageTool on macOS](https://ben.balter.com/2025/01/30/how-to-run-language-tool-open-source-grammarly-alternative-on-macos/)
+* [The "I don't like what they're saying, so they shouldn't be allowed to say it" approach to crisis management](https://ben.balter.com/2024/01/08/dissenting-voices/)
+* [Cathedral vs Bazaar People Management](https://ben.balter.com/2023/12/08/cathedral-bazaar-management/)
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
