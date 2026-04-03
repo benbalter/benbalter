@@ -22,7 +22,7 @@ jobs:
           feed_list: "https://ben.balter.com/feed.xml"
           max_post_count: 5
           readme_path: "./README.md"
-          template: "* [$title]($url)"
+          template: "* [$title]($url)$newline"
           commit_message: "Update README with latest blog posts"
           committer_username: "blog-post-bot"
           committer_email: "blog-post-bot@example.com"
