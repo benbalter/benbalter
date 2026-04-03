@@ -3,24 +3,31 @@
 
 ### Elsewhere on the internet
 
-[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/benbalter)&nbsp;
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/benbalter)
-
-### Recent writing
-
-<!-- markdownlint-disable MD013 -->
-* [How to communicate like a GitHub engineer](https://github.blog/engineering/engineering-principles/how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) (with Allison Matlack)
-* [Transparent collaboration is the andon of your knowledge production system](https://ben.balter.com/2023/08/31/transparent-collaboration/)
-* [Remote work requires communicating more, less frequently](https://ben.balter.com/2023/08/09/remote-work-communicate-more-with-less-frequently/)
-* [Practice inclusive scheduling](https://ben.balter.com/2023/05/24/practice-inclusive-scheduling/)
-* [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
-* [The seven habits of highly effective GitHubbers](https://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/)
-* [Why everything should have a URL](https://ben.balter.com/2015/11/12/why-urls/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/benbalter.com)&nbsp;
+[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/benbalter)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/benbalter)&nbsp;
+[![Blog](https://img.shields.io/badge/ben.balter.com-FF5722?logo=jekyll&logoColor=fff&style=for-the-badge)](https://ben.balter.com)
 
 ### About Ben
 
 <!-- markdownlint-disable MD013 -->
-Ben Balter is the Director of Hubber Enablement at GitHub, the world's largest software development platform. In this role, he drives employee engagement, productivity, and organizational health for GitHub's distributed workforce through continuous learning (with a focus on AI fluency), async communication patterns optimized for remote-first teams, company events, and AI-driven automation of business processes. Previously, as Director of Engineering Operations and Culture, Ben led a team supporting engineering executives, fostering diversity and inclusion, and improving operational excellence. Earlier in his GitHub tenure, he served as Chief of Staff for Security, Staff Technical Program Manager for Enterprise and Compliance, Senior Product Manager for Trust and Safety, and GitHub's Government Evangelist, where he led efforts to encourage more than 2,000 government organizations across 75 countries to adopt open source philosophies.
+Ben Balter is the Director of Hubber Enablement at [GitHub](https://github.com/about), ensuring all Hubbers can do their best (remote) work. An attorney and open source advocate, he's spent over a decade at GitHub championing distributed collaboration, AI fluency, and open source philosophies — from the White House to the world's largest developer platform.
+
+📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/) (upcoming book)
+
+### Popular posts
+
+* [Why everything should have a URL](https://ben.balter.com/2015/11/12/why-urls/)
+* [Why you should work asynchronously](https://ben.balter.com/2022/03/17/why-async/)
+* [Why open source](https://ben.balter.com/2015/11/23/why-open-source/)
+* [Leaders show their work](https://ben.balter.com/2022/02/16/leaders-show-their-work/)
+* [Manage like an engineer](https://ben.balter.com/2023/01/10/manage-like-an-engineer/)
+* [Cathedral vs Bazaar People Management](https://ben.balter.com/2023/12/08/cathedral-bazaar-management/)
+
+### Recent posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
