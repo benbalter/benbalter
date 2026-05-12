@@ -11,7 +11,7 @@
 ### About Ben
 
 <!-- markdownlint-disable MD013 -->
-Ben Balter is the Director of Hubber Enablement at [GitHub](https://github.com/about), ensuring all Hubbers can do their best (remote) work. An attorney and open source advocate, he's spent over a decade at GitHub championing distributed collaboration, AI fluency, and open source philosophies — from the White House to the world's largest developer platform.
+Ben Balter is the former Director of Hubber Enablement at [GitHub](https://github.com/about), where he ensured all Hubbers can do their best (remote) work. An attorney and open source advocate, he's spent over a decade at GitHub championing distributed collaboration, AI fluency, and open source philosophies — from the White House to the world's largest developer platform.
 
 📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/) (upcoming book)
 
