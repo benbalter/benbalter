@@ -1,6 +1,19 @@
 <!-- markdownlint-disable MD041 -->
 ![Welcome to the official GitHub profile of @benbalter](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
+### 📖 My new book — _Open & Async_
+
+<a href="https://open-and-async.com/">
+  <img src="https://open-and-async.com/og-image.png" alt="Open & Async — The collaborative software development playbook for remote and distributed teams. A new book by Ben Balter." width="100%">
+</a>
+
+> **Remote work isn't failing. Your playbook is.**
+
+Most companies didn't go remote — they just digitized the office. _Open & Async_ is the opinionated, GitHub-tested playbook for building distributed teams that actually thrive: working in the open, defaulting to async, and measuring impact over hours. A decade of hard-won practice, distilled into moves you can steal today.
+
+[![Pre-order the ebook — $9.99](https://img.shields.io/badge/Pre--order_the_ebook-%249.99-102038?style=for-the-badge&logo=bookstack&logoColor=C4D82E)](https://open-and-async.com/)&nbsp;
+[![Out July 21, 2026](https://img.shields.io/badge/Out-July_21%2C_2026-C4D82E?style=for-the-badge&labelColor=102038)](https://open-and-async.com/)
+
 ### Elsewhere on the internet
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/benbalter.com)&nbsp;
@@ -13,7 +26,7 @@
 <!-- markdownlint-disable MD013 -->
 Ben Balter is the former Director of Hubber Enablement at [GitHub](https://github.com/about), where he ensured all Hubbers can do their best (remote) work. An attorney and open source advocate, he's spent over a decade at GitHub championing distributed collaboration, AI fluency, and open source philosophies — from the White House to the world's largest developer platform.
 
-📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/) (upcoming book)
+📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/) (my new book — [pre-order now](https://open-and-async.com/))
 
 ### Popular posts
 
