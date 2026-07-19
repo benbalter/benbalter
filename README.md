@@ -39,11 +39,11 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 
 ### Recent posts
 
-<!-- BLOG-POST-LIST:START -->* [Reorgs happen](https://ben.balter.com/2026/06/07/reorgs-happen/)
+<!-- BLOG-POST-LIST:START -->* [Work loudly](https://ben.balter.com/2026/07/14/work-loudly/)
+* [Reorgs happen](https://ben.balter.com/2026/06/07/reorgs-happen/)
 * [AI-first program management: amplifying judgment, not replacing it](https://ben.balter.com/2026/05/31/ai-first-program-management/)
 * [How to one-on-one](https://ben.balter.com/2026/04/27/one-on-one-playbook/)
 * [The brag doc](https://ben.balter.com/2026/04/27/the-brag-doc/)
-* [No agenda, no meeting](https://ben.balter.com/2026/04/06/no-agenda-no-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
