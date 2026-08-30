@@ -39,11 +39,11 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 
 ### Recent posts
 
-<!-- BLOG-POST-LIST:START -->* [How I over-engineered my book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
+<!-- BLOG-POST-LIST:START -->* [Accessible by default: writing a book like software](https://ben.balter.com/2026/08/27/accessible-by-default/)
+* [How I over-engineered my book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 * [Open and async on the Overcommitted podcast](https://ben.balter.com/2026/07/28/overcommitted-open-and-async/)
 * [Open and Async: the remote-work playbook is out](https://ben.balter.com/2026/07/21/open-and-async/)
 * [Work loudly](https://ben.balter.com/2026/07/14/work-loudly/)
-* [Reorgs happen](https://ben.balter.com/2026/06/07/reorgs-happen/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
