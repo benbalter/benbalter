@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD041 MD013 -->
 ![Welcome to the official GitHub profile of @benbalter](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
 ### 📖 My new book — _Open & Async_
@@ -23,7 +23,6 @@ Most companies didn't go remote — they just digitized the office. _Open & Asyn
 
 ### About Ben
 
-<!-- markdownlint-disable MD013 -->
 Ben Balter is the former Director of Hubber Enablement at [GitHub](https://github.com/about), where he ensured all Hubbers can do their best (remote) work. An attorney and open source advocate, he's spent over a decade at GitHub championing distributed collaboration, AI fluency, and open source philosophies — from the White House to the world's largest developer platform.
 
 📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_link) (my new book — [get it now](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_buy))
@@ -39,11 +38,13 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 
 ### Recent posts
 
-<!-- BLOG-POST-LIST:START -->* [It&#39;s pronounced JIF. The Open and Async audiobook is out.](https://ben.balter.com/2026/09/08/gif-or-jif-audiobook-both-ways/)
+<!-- BLOG-POST-LIST:START -->
+* [It&#39;s pronounced JIF. The Open and Async audiobook is out.](https://ben.balter.com/2026/09/08/gif-or-jif-audiobook-both-ways/)
 * [Accessible by default: writing a book like software](https://ben.balter.com/2026/08/27/accessible-by-default/)
 * [How I over-engineered my book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 * [Open and async on the Overcommitted podcast](https://ben.balter.com/2026/07/28/overcommitted-open-and-async/)
 * [Open and Async: the remote-work playbook is out](https://ben.balter.com/2026/07/21/open-and-async/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
@@ -52,7 +53,7 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 
 </div>
 <div align="center">
-  
+
 <sup>You are visitor number:</sup>
 
 ![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1626708761)
