@@ -18,10 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          # blog-post-workflow sets its own authenticated remote via gh_token
-          persist-credentials: false
+        # blog-post-workflow pushes using the credentials checkout persists
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 zizmor: ignore[artipacked]
 
       - name: Update README with blog posts
         uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7

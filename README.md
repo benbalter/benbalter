@@ -44,6 +44,7 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 * [How I over-engineered my book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 * [Open and async on the Overcommitted podcast](https://ben.balter.com/2026/07/28/overcommitted-open-and-async/)
 * [Open and Async: the remote-work playbook is out](https://ben.balter.com/2026/07/21/open-and-async/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
