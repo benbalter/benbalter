@@ -61,6 +61,7 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 </picture>
 
 <!-- PROFILE-FACTS:START -->
+Member since May 2010 &middot; First pull request: [robflaherty/Emphasis#2](https://github.com/robflaherty/Emphasis/pull/2), April 2011 &middot; First issue: [Automattic/edit-flow#11](https://github.com/Automattic/edit-flow/issues/11), December 2011 &middot; 2,549 pull requests &middot; 1,615 issues
 <!-- PROFILE-FACTS:END -->
 
 </div>
