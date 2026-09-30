@@ -1,0 +1,120 @@
+name: Update profile stats cards
+
+on:
+  schedule:
+    - cron: "0 6 * * 0" # Every Sunday at 06:00 UTC, after the blog-post job
+  workflow_dispatch:
+
+permissions: {}
+
+# Shares a group with update-readme.yml so the two bots never push to master
+# at the same time
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  # Third-party card code runs here with a read-only token and no persisted
+  # credentials; only the commit job below can push
+  generate:
+    name: Generate stats cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      # Old slide decks that each vendor ~5 MB of presentation-theme CSS,
+      # which otherwise makes the languages card read ~85% CSS
+      TOP_LANGS_EXCLUDE: project-open-data-case-study,open-sourcing-government,make-education-better-together,make-government-better-together,collaborative-policymaking,open-source-software-licensing
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # core_version defaults to "v2", which makes the action npm install the
+      # latest 2.x core (and unpinned transitive deps) at run time. An empty
+      # value uses the core bundled via the action's lockfile instead, so the
+      # SHA pin below actually pins what runs. If that ever stops working, the
+      # guard step fails; fall back to an exact version like "2.2.1".
+      # https://github.com/stats-organization/github-readme-stats-action/issues/114
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=benbalter&show_icons=true&hide_border=true&theme=default
+          path: profile/stats-light.svg
+          core_version: ""
+          fail_on_error: "true"
+          token: ${{ github.token }}
+
+      - name: Generate stats card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=benbalter&show_icons=true&hide_border=true&theme=github_dark
+          path: profile/stats-dark.svg
+          core_version: ""
+          fail_on_error: "true"
+          token: ${{ github.token }}
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=benbalter&layout=compact&langs_count=8&hide_border=true&theme=default&exclude_repo=${{ env.TOP_LANGS_EXCLUDE }}
+          path: profile/top-langs-light.svg
+          core_version: ""
+          fail_on_error: "true"
+          token: ${{ github.token }}
+
+      - name: Generate top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=benbalter&layout=compact&langs_count=8&hide_border=true&theme=github_dark&exclude_repo=${{ env.TOP_LANGS_EXCLUDE }}
+          path: profile/top-langs-dark.svg
+          core_version: ""
+          fail_on_error: "true"
+          token: ${{ github.token }}
+
+      # The action installs a runtime core into a grs-core-* temp dir; its
+      # presence means the lockfile-pinned core was bypassed
+      - name: Verify bundled core was used
+        run: |
+          if compgen -G "${TMPDIR:-/tmp}/grs-core-*" > /dev/null; then
+            echo "::error::Card core was installed from npm at run time; the pinned bundle was bypassed"
+            exit 1
+          fi
+
+      - name: Upload cards
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: stats-cards
+          path: profile/*.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  commit:
+    name: Commit stats cards
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # The push step uses the credentials checkout persists
+      - name: Checkout repository # zizmor: ignore[artipacked]
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Download cards
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: stats-cards
+          path: profile
+
+      - name: Commit and push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update profile stats cards"
+          git push

@@ -49,6 +49,20 @@ Ben Balter is the former Director of Hubber Enablement at [GitHub](https://githu
 
 <div align="center">
 
+<sup>Site statistics (updated weekly by a highly advanced web robot):</sup>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+  <img alt="Ben Balter's GitHub stats" src="profile/stats-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg">
+  <img alt="Ben Balter's most-used languages" src="profile/top-langs-light.svg">
+</picture>
+
+</div>
+<div align="center">
+
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
 
 </div>
