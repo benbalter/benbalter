@@ -27,7 +27,7 @@ jobs:
       TOP_LANGS_EXCLUDE: project-open-data-case-study,open-sourcing-government,make-education-better-together,make-government-better-together,collaborative-policymaking,open-source-software-licensing
     steps:
       - name: Checkout repository
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        uses: actions/checkout@v7
         with:
           persist-credentials: false
 
@@ -38,7 +38,7 @@ jobs:
       # guard step fails; fall back to an exact version like "2.2.1".
       # https://github.com/stats-organization/github-readme-stats-action/issues/114
       - name: Generate stats card (light)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=benbalter&show_icons=true&hide_border=true&hide_rank=true&theme=default
@@ -48,7 +48,7 @@ jobs:
           token: ${{ github.token }}
 
       - name: Generate stats card (dark)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=benbalter&show_icons=true&hide_border=true&hide_rank=true&theme=github_dark
@@ -58,7 +58,7 @@ jobs:
           token: ${{ github.token }}
 
       - name: Generate top languages card (light)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=benbalter&layout=compact&langs_count=8&hide_border=true&theme=default&exclude_repo=${{ env.TOP_LANGS_EXCLUDE }}
@@ -68,7 +68,7 @@ jobs:
           token: ${{ github.token }}
 
       - name: Generate top languages card (dark)
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=benbalter&layout=compact&langs_count=8&hide_border=true&theme=github_dark&exclude_repo=${{ env.TOP_LANGS_EXCLUDE }}
@@ -148,7 +148,7 @@ jobs:
           fi
 
       - name: Upload cards
-        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        uses: actions/upload-artifact@v7
         with:
           name: stats-cards
           path: |
@@ -166,10 +166,10 @@ jobs:
     steps:
       # The push step uses the credentials checkout persists
       - name: Checkout repository # zizmor: ignore[artipacked]
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        uses: actions/checkout@v7
 
       - name: Download cards
-        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        uses: actions/download-artifact@v8
         with:
           name: stats-cards
           path: profile
