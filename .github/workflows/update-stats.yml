@@ -7,7 +7,7 @@ on:
 
 permissions: {}
 
-# Shares a group with update-readme.yml so the two bots never push to master
+# Shares a group with update-readme.yml so the two bots never push to main
 # at the same time
 concurrency:
   group: update-readme
