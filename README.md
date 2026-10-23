@@ -16,16 +16,16 @@ Most companies didn't go remote — they just digitized the office. _Open & Asyn
 
 ### Elsewhere on the internet
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/benbalter.com)&nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/ben.balter.com)&nbsp;
 [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/benbalter)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/benbalter)&nbsp;
 [![Blog](https://img.shields.io/badge/ben.balter.com-FF5722?logo=jekyll&logoColor=fff&style=for-the-badge)](https://ben.balter.com)
 
 ### About Ben
 
-Ben Balter is the former Director of Hubber Enablement at [GitHub](https://github.com/about), where he ensured all Hubbers can do their best (remote) work. An attorney and open source advocate, he's spent over a decade at GitHub championing distributed collaboration, AI fluency, and open source philosophies — from the White House to the world's largest developer platform.
+Ben Balter is a product leader for developer platforms and open source. Over a decade at [GitHub](https://github.com/about), he shipped platform features and the APIs behind them to 50M+ developers as the product manager for trust and safety, rewrote GitHub Pages from the bottom up, and wrote [Licensee](https://github.com/licensee/licensee), the open source library behind GitHub's license detection. Most recently he was GitHub's Director of Hubber Enablement. He's also an attorney, a former Presidential Innovation Fellow, and the author of Open and Async.
 
-📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_link) (my new book — [get it now](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_buy))
+📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_link) (my new book: [get it now](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_buy))
 
 ### Popular posts
 
