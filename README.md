@@ -1,17 +1,17 @@
 <!-- markdownlint-disable MD041 MD013 -->
 ![Welcome to the official GitHub profile of @benbalter](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
-### 📖 My new book — _Open & Async_
+### 📖 My new book: _Open & Async_
 
 <a href="https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=banner">
-  <img src="https://open-and-async.com/og-image.png" alt="Open & Async — The collaborative software development playbook for remote and distributed teams. A new book by Ben Balter." width="100%">
+  <img src="https://open-and-async.com/og-image.png" alt="Open & Async: The collaborative software development playbook for remote and distributed teams. A new book by Ben Balter." width="100%">
 </a>
 
 > **Remote work isn't failing. Your playbook is.**
 
-Most companies didn't go remote — they just digitized the office. _Open & Async_ is the opinionated, GitHub-tested playbook for building distributed teams that actually thrive: working in the open, defaulting to async, and measuring impact over hours. A decade of hard-won practice, distilled into moves you can steal today.
+Most companies didn't go remote. They just digitized the office. _Open & Async_ is the opinionated, GitHub-tested playbook for building distributed teams that actually thrive: working in the open, defaulting to async, and measuring impact over hours. A decade of hard-won practice, distilled into moves you can steal today.
 
-[![Get the ebook — $9.99](https://img.shields.io/badge/Get_the_ebook-%249.99-102038?style=for-the-badge&logo=bookstack&logoColor=C4D82E)](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=buy_badge)&nbsp;
+[![Get the ebook: $9.99](https://img.shields.io/badge/Get_the_ebook-%249.99-102038?style=for-the-badge&logo=bookstack&logoColor=C4D82E)](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=buy_badge)&nbsp;
 [![Out now](https://img.shields.io/badge/Out-now-C4D82E?style=for-the-badge&labelColor=102038)](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=date_badge)
 
 ### Elsewhere on the internet
@@ -23,7 +23,7 @@ Most companies didn't go remote — they just digitized the office. _Open & Asyn
 
 ### About Ben
 
-Ben Balter is a product leader for developer platforms and open source. Over a decade at [GitHub](https://github.com/about), he shipped platform features and the APIs behind them to 50M+ developers as the product manager for trust and safety, rewrote GitHub Pages from the bottom up, and wrote [Licensee](https://github.com/licensee/licensee), the open source library behind GitHub's license detection. Most recently he was GitHub's Director of Hubber Enablement. He's also an attorney, a former Presidential Innovation Fellow, and the author of Open and Async.
+I'm a product leader for developer platforms and open source. Over a decade at [GitHub](https://github.com/about), I was a product manager for trust and safety, shipping 500+ features and the github.com API endpoints behind them; led a bottom-up rewrite of GitHub Pages; and wrote [Licensee](https://github.com/licensee/licensee), the open source library behind GitHub's license detection. Most recently I owned the internal platform 4,000+ GitHub employees use to get work done. I'm also an attorney, a former Presidential Innovation Fellow, and the author of Open and Async.
 
 📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_link) (my new book: [get it now](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_buy))
 
