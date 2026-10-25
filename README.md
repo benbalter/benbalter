@@ -61,7 +61,7 @@ I'm a product leader for developer platforms and open source. Over a decade at [
 </picture>
 
 <!-- PROFILE-FACTS:START -->
-Member since May 2010 &middot; First pull request: [robflaherty/Emphasis#2](https://github.com/robflaherty/Emphasis/pull/2), April 2011 &middot; First issue: [Automattic/edit-flow#11](https://github.com/Automattic/edit-flow/issues/11), December 2011 &middot; 2,820 pull requests &middot; 1,668 issues
+Member since May 2010 &middot; First pull request: [robflaherty/Emphasis#2](https://github.com/robflaherty/Emphasis/pull/2), April 2011 &middot; First issue: [Automattic/edit-flow#11](https://github.com/Automattic/edit-flow/issues/11), December 2011 &middot; 2,901 pull requests &middot; 1,682 issues
 <!-- PROFILE-FACTS:END -->
 
 </div>
