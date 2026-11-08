@@ -39,11 +39,11 @@ I'm a product leader for developer platforms and open source. Over a decade at [
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+* [How I over-engineered Halloween with two hacked Furbies](https://ben.balter.com/2026/11/02/hacking-furbies-for-halloween/)
 * [The rule of no surprises](https://ben.balter.com/2026/10/29/the-rule-of-no-surprises/)
 * [Your documentation quality is your AI quality now](https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality/)
-* [It&#39;s pronounced JIF. The Open and Async audiobook is out.](https://ben.balter.com/2026/09/08/gif-or-jif-audiobook-both-ways/)
+* [It&#39;s JIF: the Open and Async audiobook is out](https://ben.balter.com/2026/09/08/gif-or-jif-audiobook-both-ways/)
 * [Accessible by default: writing a book like software](https://ben.balter.com/2026/08/27/accessible-by-default/)
-* [How I over-engineered my book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 
 <!-- BLOG-POST-LIST:END -->
 
