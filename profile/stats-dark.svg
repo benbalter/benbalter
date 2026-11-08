@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ben Balter&#39;s GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 8390, Total Commits  (last year) : 7040, Total PRs: 2070, Total Issues: 1705, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 8390, Total Commits  (last year) : 7327, Total PRs: 2138, Total Issues: 1711, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 0.5165028666969489;
+        stroke-dashoffset: 0.5164988940798663;
       }
     }
   
@@ -173,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >7k</text>
+      >7.3k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >23</text>
+      >25</text>
     </g>
   </g>
     </svg>
