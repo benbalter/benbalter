@@ -23,7 +23,7 @@ Most companies didn't go remote. They just digitized the office. _Open & Async_ 
 
 ### About Ben
 
-I'm a product leader for developer platforms and open source. Over a decade at [GitHub](https://github.com/about), I was a product manager for trust and safety, shipping 500+ features and the github.com API endpoints behind them; led a bottom-up rewrite of GitHub Pages; and wrote [Licensee](https://github.com/licensee/licensee), the open source library behind GitHub's license detection. Most recently I owned the internal platform 4,000+ GitHub employees use to get work done. I'm also an attorney, a former Presidential Innovation Fellow, and the author of Open and Async.
+I'm a principal product manager for API (developer) experience at [Cloudflare](https://www.cloudflare.com), where I work on making it an even better place to build, for developers and their agents. Over a decade at [GitHub](https://github.com/about), I was a product manager for trust and safety, shipping 500+ features and policies to 50M+ developers; led a bottom-up rewrite of GitHub Pages; and maintained [Jekyll](https://github.com/jekyll/jekyll) and wrote the plugins most GitHub Pages sites run on. In my last role there, I owned the internal platform 4,000+ GitHub employees used to get work done. I also built [Word to Markdown](https://word2md.com). I'm an attorney, a former Presidential Innovation Fellow, and the author of Open and Async.
 
 📖 [Full bio](https://ben.balter.com/about/) &middot; 📗 [Open & Async](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_link) (my new book: [get it now](https://open-and-async.com/?utm_source=github&utm_medium=profile&utm_campaign=open-and-async&utm_content=bio_buy))
 
