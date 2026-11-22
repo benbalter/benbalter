@@ -61,7 +61,7 @@ I'm a principal product manager for API (developer) experience at [Cloudflare](h
 </picture>
 
 <!-- PROFILE-FACTS:START -->
-Member since May 2010 &middot; First pull request: [robflaherty/Emphasis#2](https://github.com/robflaherty/Emphasis/pull/2), April 2011 &middot; First issue: [Automattic/edit-flow#11](https://github.com/Automattic/edit-flow/issues/11), December 2011 &middot; 3,013 pull requests &middot; 1,690 issues
+Member since May 2010 &middot; First pull request: [robflaherty/Emphasis#2](https://github.com/robflaherty/Emphasis/pull/2), April 2011 &middot; First issue: [Automattic/edit-flow#11](https://github.com/Automattic/edit-flow/issues/11), December 2011 &middot; 3,037 pull requests &middot; 1,691 issues
 <!-- PROFILE-FACTS:END -->
 
 </div>
