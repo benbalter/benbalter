@@ -39,11 +39,11 @@ I'm a principal product manager for API (developer) experience at [Cloudflare](h
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+* [AI made open source fun again](https://ben.balter.com/2026/11/15/ai-made-open-source-fun-again/)
 * [How I over-engineered Halloween with two hacked Furbies](https://ben.balter.com/2026/11/02/hacking-furbies-for-halloween/)
 * [The rule of no surprises](https://ben.balter.com/2026/10/29/the-rule-of-no-surprises/)
 * [Your documentation quality is your AI quality now](https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality/)
 * [It&#39;s JIF: the Open and Async audiobook is out](https://ben.balter.com/2026/09/08/gif-or-jif-audiobook-both-ways/)
-* [Accessible by default: writing a book like software](https://ben.balter.com/2026/08/27/accessible-by-default/)
 
 <!-- BLOG-POST-LIST:END -->
 
